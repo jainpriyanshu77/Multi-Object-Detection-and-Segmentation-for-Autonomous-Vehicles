@@ -1,2 +1,2 @@
 # Multi-Object-Detection-and-Segmentation-for-Autonomous-Vehicles
-Deep Laerning using Computer Vision
+Deep Learning using Computer Vision
